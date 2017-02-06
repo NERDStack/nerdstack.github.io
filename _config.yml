@@ -2,7 +2,7 @@ title: Nerdstack.GitHub.io
 description: The start of all the fun
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-architect
+theme: jekyll-theme-modernist
 
 gems:
   - jekyll-mentions
