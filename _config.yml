@@ -1,0 +1,8 @@
+title: Nerdstack.GitHub.io
+description: The start of all the fun
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
