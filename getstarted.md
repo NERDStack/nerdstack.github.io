@@ -1,5 +1,8 @@
+# Get started with NERD Stack
 
+In this tutorial, we're going to walk you through using NERD Stack to build and deploy a sample application.  
 
+## Prerequisites
 First, ensure that you've got the prerequisites installed:
 
 * [Node.js](https://nodejs.org/)
