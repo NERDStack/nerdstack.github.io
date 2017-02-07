@@ -19,9 +19,9 @@ From a Node.js command line, enter:
 npm install -g nerd-cli
 ```
 
-## Next steps
+## Using NERD Stack
 
-Congratulations!  You've successfully installed NERD Stack.  You can now follow our [step-by-step guide](getstarted.md) to deploy your first application!
+Now that you've successfully installed NERD Stack, you can now follow our [step-by-step guide](getstarted.md) to deploy your first application!
 
 ## More resources
 
