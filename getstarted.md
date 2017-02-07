@@ -24,7 +24,7 @@ Before we get started, you'll need a few things:
 
 You'll need to create a DocumentDB account on Azure to store your data.
 
-> **NOTE:** This tutorial uses the [Azure Portal](https://portal.azure.com) to create your DocumentDB.  If you're more comfortable with a command line interface, you can also create your DocumentDB database through Azure's [cross-platform command-line interface](https://docs.microsoft.com/en-us/azure/xplat-cli-install?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json) or [Azure PowerShell](https://docs.microsoft.com/powershell/).
+> **NOTE:** This tutorial uses the [Azure Portal](https://portal.azure.com) to create your DocumentDB account.  If you're more comfortable with a command line interface, you can also create your DocumentDB account through Azure's [cross-platform command-line interface](https://docs.microsoft.com/en-us/azure/xplat-cli-install?toc=%2fazure%2fvirtual-machines%2flinux%2ftoc.json) or [Azure PowerShell](https://docs.microsoft.com/powershell/).
 
 1. Sign in to the [Azure Portal](https://portal.azure.com).
 
@@ -82,7 +82,7 @@ Now you're ready to create your sample app.
 
 The NERD CLI will carry out several tasks automatically, including:
 
-* Cloneing the sample app (Nerdy Movies) into a new directory.
+* Cloning the sample app (Nerdy Movies) into a new directory.
 * Configuring the connection to your DocumentDB database.
 * Creating and configuring the necessary npm scripts.
 
@@ -95,7 +95,7 @@ Now we can test the sample app to make sure it runs correctly.
 1. Change your current directory to the subdirectory the install created in the previous step.  This will be the application name you entered at the command line in the previous section.
 
     **Windows**
-    
+
     ```
     cd .\<app_name>
     ```
