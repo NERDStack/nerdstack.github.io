@@ -25,3 +25,8 @@ npm install -g nerd-cli
 ## Next steps
 
 Congratulations!  You've successfully installed NERD Stack.  Now follow our [step-by-step guide](getstarted.md) to get started.
+
+## More resources
+
+- [NERD Stack on GitHub](https://github.com/NERDStack)
+- [Contributors to NERD Stack](contributors.md)
