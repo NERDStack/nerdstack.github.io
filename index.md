@@ -1,6 +1,6 @@
 # Welcome to NERD Stack!
 
-![Nerd](./images/nerd_logo_200x300.png)
+![A helpful example of what a nerd may look like](./images/nerd_logo_200x300.png)
 
 NERD Stack is opinionated tooling for full-stack and cloud-hosted web applications. It lowers the barrier of entry for developing and deploying an industry-proven web stack.
 
