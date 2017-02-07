@@ -162,7 +162,7 @@ Now you've created an Azure App Service, so you can now push your app code to Az
 git push azure master
 ```
 
-Your app will be uploaded, built, and ran in the cloud.  The process may take a few minutes.  When the process is complete, 
+Your app will be uploaded, built, and ran in the cloud.  The process may take a few minutes.  When the process is complete, you can browse to `<web-app-name>.azurewebsites.net` to see your live app.
 
 
 ## Cleanup the sample app
