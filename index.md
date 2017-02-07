@@ -1,8 +1,8 @@
-# Welcome to NERD Stack!
-
 ![A helpful example of what a nerd may look like](./images/nerd_logo_200x300.png)
 
-NERD Stack is opinionated tooling for full-stack and cloud-hosted web applications. It lowers the barrier of entry for developing and deploying an industry-proven web stack.
+# Welcome to NERD Stack!
+
+NERD Stack is an revolutionary stack that provides a great starting point for building rock-solid web apps using cutting-edge technologies.
 
 NERD builds on four proven technologies to rapidly build applications:
 
@@ -21,7 +21,11 @@ npm install -g nerd-cli
 
 ## Using NERD Stack
 
-Now that you've successfully installed NERD Stack, you can follow our [step-by-step guide to deploy your first application](getstarted.md)!
+Once you've successfully installed NERD Stack, you can follow our [step-by-step guide to deploy your first application](getstarted.md)!
+
+## Bugs, feature requests, and questions
+
+Please open an [issue on this repo](https://github.com/NERDStack/nerd-cli/issues) and someone from our team (or community) will take a look.
 
 ## More resources
 
