@@ -2,7 +2,7 @@
 
 NERD Stack is opinionated tooling for full-stack and cloud-hosted web applications. It lowers the barrier of entry for developing and deploying an industry-proven web stack.
 
-## What does NERD stand for?
+NERD builds on four proven technologies to rapidly build applications:
 
  - [Node.js](https://nodejs.org/) - JavaScript-based server runtime
  - [Express](http://expressjs.com/) - Web framework for Node
@@ -11,12 +11,7 @@ NERD Stack is opinionated tooling for full-stack and cloud-hosted web applicatio
 
 ## Installation
 
-First, ensure that you've got the prerequisites installed:
-
-* [Node.js](https://nodejs.org/)
-* The [Git](https://git-scm.com/) client
-
-From a command line with both Node.js and Git on the current path, execute the following:
+From a Node.js command line, enter:
 
 ```
 npm install -g nerd-cli

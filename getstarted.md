@@ -1,3 +1,10 @@
+
+
+First, ensure that you've got the prerequisites installed:
+
+* [Node.js](https://nodejs.org/)
+* The [Git](https://git-scm.com/) client
+
 You need Azure.
 
 ### :one: Create a new web app
