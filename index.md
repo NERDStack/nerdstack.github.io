@@ -21,7 +21,6 @@ From a command line with both Node.js and Git on the current path, execute the f
 ```
 npm install -g nerd-cli
 ```
-Node Package Manager will install NERD Stack.
 
 ## Next steps
 
