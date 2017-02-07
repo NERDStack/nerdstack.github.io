@@ -95,6 +95,7 @@ Now we can test the sample app to make sure it runs correctly.
 1. Change your current directory to the subdirectory the install created in the previous step.  This will be the application name you entered at the command line in the previous section.
 
     **Windows**
+    
     ```
     cd .\<app_name>
     ```
@@ -133,7 +134,9 @@ First, let's get a list of available Azure regions.  We'll need to enter one in 
 nerd regions
 ```
 
-Follow the authentication procedure to retrieve the list.  Note the lowercase name of the region you created your resource group in when you created your DocumentDB.  
+Follow the authentication procedure to retrieve the list.  Note the lowercase name of the region you wish to create the app in.  
+
+> **TIP:** Azure makes it easy to manage resouces that belong to the same application as a group. To take advantage of this, use the same location and resource group for your Azure App Service as you did for DocumentDB.
 
 Now we're ready to get Azure App Service set up.  At the command line, enter:
 
@@ -146,8 +149,8 @@ Enter the following information when prompted:
 - Skip **Tenant ID** unless you know you need it (necessary for certain types of Azure subscriptions)
 - Enter the **DocumentDB URI** we used earlier.
 - Enter the **DocumentDB key** we used earlier.
-- Enter the **Location** your resource group is in.
-- Enter the **Resource group name** you created earlier.
+- Enter the **Location** (region) you chose earlier.
+- Enter a **Resource group name**. 
 - Enter a unique **Web app name**.  You can test to make sure it's unique by trying to browse to `<web-app-name>.azurewebsites.net`.
 - Follow the authentication procedure as prompted to log in.
 - Follow the procedure displayed in the output text to set your Git deployment credentials.
