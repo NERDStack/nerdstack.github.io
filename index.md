@@ -27,7 +27,19 @@ Once you've successfully installed NERD Stack, you can follow our [step-by-step 
 
 Please open an [issue on this repo](https://github.com/NERDStack/nerd-cli/issues) and someone from our team (or community) will take a look.
 
+## Contributors
+
+NERD Stack was built with help from:
+
+- @tstringer
+- @jplane
+- @tripdubroot
+- @kottofy
+- @aliuy
+- @mahaase1
+
+Documentation by @camsoper.
+
 ## More resources
 
 - [NERD Stack on GitHub](https://github.com/NERDStack)
-- [Contributors to NERD Stack](contributors.md)
