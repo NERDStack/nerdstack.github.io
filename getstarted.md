@@ -135,11 +135,13 @@ nerd regions
 
 Follow the authentication procedure to retrieve the list.  Note the lowercase name of the region you created your resource group in when you created your DocumentDB.  
 
-Now we're ready to publish to Azure.  At the command line, enter:
+Now we're ready to get Azure App Service set up.  At the command line, enter:
 
 ```
 nerd publish
 ```
+
+Enter the following information when prompted:
 
 - Skip **Tenant ID** unless you know you need it (necessary for certain types of Azure subscriptions)
 - Enter the **DocumentDB URI** we used earlier.
@@ -150,9 +152,8 @@ nerd publish
 - Follow the authentication procedure as prompted to log in.
 - Follow the procedure displayed in the output text to set your Git deployment credentials.
 
-![Set deployment credentials](./images/deployment-credentials.png)
 
-You've created an Azure App Service, and you can now push your app code to Azure.  Enter:
+Now you've created an Azure App Service, so you can now push your app code to Azure.  Enter:
 
 ```
 git push azure master
