@@ -16,7 +16,7 @@ In this tutorial, we're going to walk you through using NERD Stack to build and 
 Before we get started, you'll need a few things:
 
 * [Node.js](https://nodejs.org/)
-* [NERD Stack](index.md#installation)
+* [NERD Stack](index.html#installation)
 * The [Git](https://git-scm.com/) client
 * A [Microsoft Azure](https://azure.microsoft.com) subscription.  You can [start for free](https://azure.microsoft.com/en-us/free/).
 
