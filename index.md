@@ -2,7 +2,7 @@
 
 # Welcome to NERD Stack!
 
-NERD Stack is an revolutionary stack that provides a great starting point for building rock-solid web apps using cutting-edge technologies.
+NERD Stack is a revolutionary stack that provides a great starting point for building rock-solid web apps using cutting-edge technologies.
 
 NERD builds on four proven technologies to rapidly build applications:
 
