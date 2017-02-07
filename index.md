@@ -21,7 +21,7 @@ npm install -g nerd-cli
 
 ## Using NERD Stack
 
-Now that you've successfully installed NERD Stack, you can now follow our [step-by-step guide](getstarted.md) to deploy your first application!
+Now that you've successfully installed NERD Stack, you can follow our [step-by-step guide to deploy your first application](getstarted.md)!
 
 ## More resources
 
